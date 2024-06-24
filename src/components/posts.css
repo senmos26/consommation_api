@@ -1,0 +1,13 @@
+.posts{
+ 
+    font-size: 8px;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+
+}
+.user{
+    border: 2px solid blanchedalmond;
+}
+body{
+    padding: 0 300px 0 300px;
+}
